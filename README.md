@@ -61,12 +61,11 @@ The notebook uses [kamui](https://github.com/yoyololicon/kamui) for ILP-based un
 If you use our work in your research, please cite it with the following BibTex entry:
 
 ```bibtex
-@misc{ycy2024hrtf,
+@inproceedings{ycy2024hrtf,
     title={Time-of-arrival Estimation and Phase Unwrapping of Head-related Transfer Functions With Integer Linear Programming},
     author={Chin-Yun Yu and Johan Pauwels and György Fazekas},
     year={2024},
-    eprint={2405.06804},
-    archivePrefix={arXiv},
-    primaryClass={cs.SD}
+    booktitle={AES 156th Convention},
+    address={Madrid, Spain},
 }
 ```
